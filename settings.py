@@ -1,0 +1,8 @@
+class Settings:
+    FPS = 60
+
+    SCREEN_WIDTH = 438
+    SCREEN_HEIGHT = 780
+
+    MOVEMENT_SPEED = 4
+    DEFAULT_ASTROID_SPEED = 5
